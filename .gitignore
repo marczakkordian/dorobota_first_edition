@@ -1,0 +1,7 @@
+# VS Code settings
+.vscode/
+# Robot Framework outputs
+output.xml
+log.html
+report.html
+results/
